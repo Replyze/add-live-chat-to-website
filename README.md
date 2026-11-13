@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://replyze.chat/?utm_source=github&utm_medium=add-live-chat-to-website">
+  <a href="https://replyze.chat/?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Replyze/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/Replyze/.github/main/assets/logo-on-light.png" alt="Replyze" height="48">
@@ -9,13 +9,13 @@
 
 # How to add live chat to any website
 
-Copy-paste code to put a live chat with an AI agent on your website, for every common platform: plain HTML, WordPress, WooCommerce, Shopify, Wix, Squarespace, Webflow, Framer, Ghost, Joomla, Drupal, Magento, PrestaShop, BigCommerce, Google Tag Manager, React, Next.js, Vue, Nuxt, Angular, SvelteKit, Laravel, Django and Ruby on Rails. Plus what single-page apps, Content-Security-Policy and cookie banners need, and a troubleshooting list. The code is for the [Replyze](https://replyze.chat/?utm_source=github&utm_medium=add-live-chat-to-website) chat widget; where the code goes on each platform is the same for most chat widgets.
+Copy-paste code to put a live chat with an AI agent on your website, for every common platform: plain HTML, WordPress, WooCommerce, Shopify, Wix, Squarespace, Webflow, Framer, Ghost, Joomla, Drupal, Magento, PrestaShop, BigCommerce, Google Tag Manager, React, Next.js, Vue, Nuxt, Angular, SvelteKit, Laravel, Django and Ruby on Rails. Plus what single-page apps, Content-Security-Policy and cookie banners need, and a troubleshooting list. The code is for the [Replyze](https://replyze.chat/?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website) chat widget; where the code goes on each platform is the same for most chat widgets.
 
-**[Create a free account](https://client.replyze.chat/register?utm_source=github&utm_medium=add-live-chat-to-website&utm_content=cta-top)** · [Live demo](https://replyze.chat/?utm_source=github&utm_medium=add-live-chat-to-website&utm_content=live-demo) · [Docs](https://github.com/Replyze/replyze)
+**[Create a free account](https://client.replyze.chat/register?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website&utm_content=cta-top)** · [Live demo](https://replyze.chat/?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website&utm_content=live-demo) · [Docs](https://github.com/Replyze/replyze)
 
 ## Quickstart
 
-1. **Get your widget token.** [Create a free account](https://client.replyze.chat/register?utm_source=github&utm_medium=add-live-chat-to-website&utm_content=quickstart), then copy the token (`wgt_...`) from **Settings → Integrations → Install widget**. The same page shows the whole snippet with your token in it.
+1. **Get your widget token.** [Create a free account](https://client.replyze.chat/register?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website&utm_content=quickstart), then copy the token (`wgt_...`) from **Settings → Integrations → Install widget**. The same page shows the whole snippet with your token in it.
 2. **Paste the snippet** right before `</body>` on every page, or into your platform's footer code box ([where that is](#contents)):
 
    ```html
@@ -49,7 +49,7 @@ The live demo is replyze.chat itself: the chat bubble in the bottom-right corner
 
 ## The snippet
 
-You need your widget token (`wgt_...`). It is in the Replyze dashboard under **Settings → Integrations → Install widget**, where you can also copy the whole snippet. No account yet? [Sign up](https://client.replyze.chat/register?utm_source=github&utm_medium=add-live-chat-to-website).
+You need your widget token (`wgt_...`). It is in the Replyze dashboard under **Settings → Integrations → Install widget**, where you can also copy the whole snippet. No account yet? [Sign up](https://client.replyze.chat/register?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website).
 
 ```html
 <script>
@@ -475,7 +475,7 @@ The chat needs no `frame-src` (it uses no iframe) and no `font-src` (it loads no
 
 Tested in Chromium against the live widget (`cdn.replyze.chat/widget.js`) on 13 November 2026: the three embed forms, the button queue, the script loaded twice, the tracking switch, the Content-Security-Policy above (and what breaks without each part), the Turbo Drive script, the Next.js App Router snippet (Next.js 16.4) and the Nuxt snippet (Nuxt 4.6). The platform menus follow each platform's help pages as of the same date. Spotted a platform that is missing or a menu that moved? Open an issue or a pull request.
 
-More: [the full guide on our site](https://replyze.chat/answers/how-to-add-live-chat-to-website?utm_source=github&utm_medium=add-live-chat-to-website&utm_content=footer) · [Replyze docs](https://github.com/Replyze/replyze) · [MCP server](https://github.com/Replyze/replyze-mcp) · [pricing](https://replyze.chat/pricing?utm_source=github&utm_medium=add-live-chat-to-website&utm_content=footer)
+More: [the full guide on our site](https://replyze.chat/answers/how-to-add-live-chat-to-website?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website&utm_content=footer) · [Replyze docs](https://github.com/Replyze/replyze) · [MCP server](https://github.com/Replyze/replyze-mcp) · [pricing](https://replyze.chat/pricing?utm_source=github&utm_medium=referral&utm_campaign=add-live-chat-to-website&utm_content=footer)
 
 ## License
 
